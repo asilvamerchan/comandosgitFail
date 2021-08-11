@@ -1,6 +1,6 @@
 # comandosgit
 
-pwd Me permite conocer la ruta actual (Donde estoy ubicado).
+pwd Me permite conocer la ruta actual (Donde estoy ubicado).<br>
 ls ver los elementos de la carpeta donde estoy ubicado.
 clear Limpiar la pantalla.
 ls -la Ver detalle de la información con los permisos que tienen esos recursos.
